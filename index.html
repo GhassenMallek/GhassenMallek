@@ -47,7 +47,7 @@
             <div class="profile">
                 <img src="https://res.cloudinary.com/showapp/image/upload/v1652912389/Asset_1_ubigv1.png" alt="" class="img-fluid rounded-circle">
                 <h1 class="text-light"><a href="index.html">Ghassen MALLEK</a></h1>
-                <h5 class="text-light"><a href="mailto:mallek.ghassen@esprit.tn">&nbsp &nbspmallek.ghassen@esprit.tn</a></h5>
+                <h5 class="text-light"><a>&nbsp &nbspmallek.ghassen@esprit.tn</a></h5>
                 <div class="social-links mt-3 text-center">
                     <a href="https://www.linkedin.com/in/ghassenmallek/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
                     <a href="https://github.com/MGhassen30798" class="github"><i class="bx bxl-github"></i></a>
@@ -58,7 +58,7 @@
 
             <nav id="navbar" class="nav-menu navbar">
                 <ul>
-                    <li><a href="#hero" class="nav-link scrollto active"><i class="bx bx-"></i> <span>Home</span></a></li>
+                    <li><a href="#hero" class="nav-link scrollto active"><i class="bx bx-home"></i> <span>Home</span></a></li>
                     <li><a href="#about" class="nav-link scrollto"><i class="bx bx-user"></i> <span>About</span></a></li>
                     <li><a href="#skills" class="nav-link scrollto"><i class="bx bx-file-blank"></i> <span>Skills</span></a></li>
                     <!-- <li><a href="#portfolio" class="nav-link scrollto"><i class="bx bx-book-content"></i> <span>Portfolio</span></a></li> -->
@@ -690,36 +690,54 @@
 
                     </div>
 
-                    <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
-                        <form action="forms/contact.php" method="post" role="form" class="php-email-form">
-                            <div class="row">
-                                <div class="form-group col-md-6">
-                                    <label for="name">Your Name</label>
-                                    <input type="text" name="name" class="form-control" id="name" required>
-                                </div>
-                                <div class="form-group col-md-6">
-                                    <label for="name">Your Email</label>
-                                    <input type="email" class="form-control" name="email" id="email" required>
-                                </div>
+                    <div class="col-lg-5 d-flex align-items-stretch">
+                        <div class="info" style=" width: 900px;">
 
-                            </div>
-                            <div class="form-group">
-                                <label for="name">Subject</label>
-                                <input type="text" class="form-control" name="subject" id="subject" required>
-                            </div>
-                            <div class="form-group">
-                                <label for="name">Message</label>
-                                <textarea class="form-control" name="message" rows="10" required></textarea>
-                            </div>
-                            <div class="my-3">
-                                <div class="loading">Loading</div>
-                                <div class="error-message"></div>
-                                <div class="sent-message">Your message has been sent. Thank you!</div>
-                            </div>
-                            <div class="text-center"><button type="submit">Send Message</button></div>
-                        </form>
+                            <form action="https://postmail.invotes.com/send" method="post" id="email_form">
+                                <br><br>
+                                <div class="form-group col-md-6">
+                                    <label for="name">Email</label>
+                                    <input type="email" name="subject" placeholder="Email" class="form-control" id="subject" style=" width: 500px;" required />
+                                </div>
+                                <br>
+                                <div class="form-group col-md-6">
+                                    <label for="name">Subject</label>
+                                    <input type="text" name="subject" placeholder="Subject" class="form-control" id="subject" style=" width: 500px;" required />
+                                </div>
+                                <br>
+
+                                <div class="form-group col-md-6">
+                                    <label for="name">Message</label>
+                                    <textarea name="text" placeholder="Message" class="form-control" rows="10" style=" width: 500px;" required></textarea>
+                                </div>
+                                <br>
+                                <input type="hidden" name="access_token" value="be6vpqe61uansvjieqwxge7z" />
+
+                                <input type="hidden" name="success_url" value=".?message=Email+Successfully+Sent%21&isError=0" />
+                                <input type="hidden" name="error_url" value=".?message=Email+could+not+be+sent.&isError=1" />
+
+
+
+                                <div class="text-center">
+                                    <input id="submit_form" type="submit" value="Send" class="ghassen" />
+                                </div>
+                                <!-- not required, but we'd appreciate it if you'd link to us somewhere on your site -->
+                            </form>
+
+                            <!-- optional, prevents the submit button from being pressed more than once -->
+                            <script>
+                                var submitButton = document.getElementById("submit_form");
+                                var form = document.getElementById("email_form");
+                                form.addEventListener("submit", function(e) {
+                                    setTimeout(function() {
+                                        submitButton.value = "Sending...";
+                                        submitButton.disabled = true;
+                                    }, 1);
+                                });
+                            </script>
+
+                        </div>
                     </div>
-
                 </div>
 
             </div>
@@ -751,6 +769,11 @@
     <script src="assets/vendor/typed.js/typed.min.js"></script>
     <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
     <script src="assets/vendor/php-email-form/validate.js"></script>
+    <!-- <script>
+        document.getElementById("demo").onclick = function() {
+            console.log("hello");
+        }
+    </script> -->
 
     <!-- Template Main JS File -->
     <script src="assets/js/main.js"></script>

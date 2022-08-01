@@ -677,7 +677,7 @@
                             <div class="address">
                                 <i class="bi bi-geo-alt"></i>
                                 <h4>Location:</h4>
-                                <p>Residence khouloud, Nour Jaafar, Ariana , Tunisia</p>
+                                <p>Residence YOSR, Nour Jaafar, Ariana , Tunisia</p>
                             </div>
 
                             <div class="email">
@@ -691,8 +691,8 @@
                                 <h4>Call:</h4>
                                 <p>+216 25 947 696</p>
                             </div>
-
-                            <iframe src="https://www.google.com/maps/embed?pb=@36.9118768,10.1850442,19.22z" frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen></iframe>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d797.5260710600746!2d10.185471821963052!3d36.91177093941491!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12e2cb9a716e6d2b%3A0x35548f7c9e0242bb!2sR%C3%A9sidence%20YOSR!5e0!3m2!1sfr!2stn!4v1659321490679!5m2!1sfr!2stn"
+                                style="border:0; width: 100%; height: 290px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                         </div>
 
                     </div>
@@ -784,7 +784,22 @@
 
     <!-- Template Main JS File -->
     <script src="assets/js/main.js"></script>
+    <script>
+        var x = document.getElementById("demo");
 
+        function getLocation() {
+            if (navigator.geolocation) {
+                navigator.geolocation.getCurrentPosition(showPosition);
+            } else {
+                x.innerHTML = "Geolocation is not supported by this browser.";
+            }
+        }
+
+        function showPosition(position) {
+            x.innerHTML = "Latitude: " + 36.91191177775656 +
+                "<br>Longitude: " + 10.186017223535625;
+        }
+    </script>
 </body>
 
 </html>

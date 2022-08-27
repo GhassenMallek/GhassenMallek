@@ -3,7 +3,7 @@
 ## About me
 
 💡  I like to explore new technologies and develop software solutions and quick hacks.
-🎓  I'm currently studying IT at Private Higher School of Engineering and Technology [!(ESPRIT)](https://esprit.tn/).
+🎓  I'm currently studying IT at Private Higher School of Engineering and Technology [(ESPRIT)](https://esprit.tn/).
 ⚙️  I started as a Desktop Developer using java 🌱  Now, I'm on track for learning Artificial Intelligence, Reinforcement Learning, Mobile Development, Software developement.
 😍  In my free time, I pursue Video Editing and learn new technologies Reading as hobbies/side hustles.
 📄 I'm open to any feedbacks, suggestions and offers💡  

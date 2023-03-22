@@ -1,14 +1,16 @@
+<div  align=center> 
+
 # **👋 Hello I am Ghassen**
 [![My website](https://img.shields.io/badge/website-FFFFFF?style=for-the-badge&logo=About.me&logoColor=black)](https://mallekghassen.me/)
 ## About me
 
 💡  I like to explore new technologies and develop software solutions and quick hacks.
-🎓  I'm currently studying IT at Private Higher School of Engineering and Technology [(ESPRIT)](https://esprit.tn/).
+🎓  I'm currently studying IT at Private Higher School of Engineering and Technology <a href="https://esprit.tn/" title="ESPRIT">ESPRIT.</a>
 ⚙️  I started as a Desktop Developer using java 🌱  Now, I'm on track for learning Artificial Intelligence, Reinforcement Learning, Mobile Development, Software developement.
 😍  In my free time, I pursue Video Editing and learn new technologies Reading as hobbies/side hustles.
 📄 I'm open to any feedbacks, suggestions and offers💡  
 
-### &nbsp;Technologies I use
+## &nbsp;Technologies I use
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/GhassenMallek/Insight/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/GhassenMallek/Article-management-full-stack-spring-boot)
@@ -33,22 +35,40 @@
 ![SQL](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-### &nbsp;Softwares
+<!-- ### &nbsp;Softwares
 ![Illustrator](https://img.shields.io/badge/-Illustrator-000?&logo=adobe-illustrator)
-![Photoshop](https://img.shields.io/badge/-Photoshop-000?&logo=adobe-photoshop)
+![Photoshop](https://img.shields.io/badge/-Photoshop-000?&logo=adobe-photoshop) -->
 
 ### &nbsp;Github Analytics
 
-<a href="https://github.com/GhassenMallek/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=GhassenMallek&show_icons=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhassenMallek&hide=html&show_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+<br>
+<p align=center>
+  <div align=center>
+    <a title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=GhassenMallek&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+    </a>
+    <a  title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=GhassenMallek&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhassenMallek&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br>
+  <br>
+  <br></p>
 
-### &nbsp;Reach Me Via
+
+## &nbsp;Reach Me Via
 
 <a href="mailto:mallek.ghassen@esprit.tn"><img src="https://img.shields.io/badge/-mallek.ghassen@esprit.tn-000?&logo=Gmail"/></a>
 <a href="[https://www.facebook.com/ghazixx](https://www.facebook.com/ghassen.mallek.351/)"><img src="https://img.shields.io/badge/-GhassenMallek-000?&logo=Facebook"/></a>
 <a href="https://www.linkedin.com/in/ghassenmallek/"><img src="https://img.shields.io/badge/-GhassenMallek-000?&logo=Linkedin"/></a>
 <a href="https://mghassen30798.github.io/GhassenMallek/"><img src="https://img.shields.io/badge/-mallekghassen-000?&logo=internet"/></a>
 
-
+</div> 
 <!--
 **GhassenMallek/GhassenMallek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,7 +1,6 @@
 <div  align=center> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&duration=1000&pause=900&color=1B5E7B&background=24C3FF05&center=true&multiline=true&width=435&height=100&lines=Ghassen+Mallek;mobile+developer;Computer+Vision+engineer" alt="Typing SVG" /></a>
 
-# **👋 Hello I am Ghassen**
-[![My website](https://img.shields.io/badge/website-FFFFFF?style=for-the-badge&logo=About.me&logoColor=black)](https://mallekghassen.me/)
 ## About me
 
 💡  I like to explore new technologies and develop software solutions and quick hacks.
@@ -9,7 +8,9 @@
 ⚙️  I started as a Desktop Developer using java 🌱  Now, I'm on track for learning Artificial Intelligence, Reinforcement Learning, Mobile Development, Software developement.
 😍  In my free time, I pursue Video Editing and learn new technologies Reading as hobbies/side hustles.
 📄 I'm open to any feedbacks, suggestions and offers💡  
-
+  <br><br>
+  <a href="https://mallekghassen.me" title="Show Repositories">![My website](https://img.shields.io/badge/website-FFFFFF?style=for-the-badge&logo=About.me&logoColor=black)
+</a>
 ## &nbsp;Technologies I use
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/GhassenMallek/Insight/)

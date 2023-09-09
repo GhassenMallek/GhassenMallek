@@ -26,7 +26,6 @@
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/GhassenMallek/Article-management-full-stack-spring-boot)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/GhassenMallek/RentCars)
-![SQL](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 <!-- ### &nbsp;Softwares
 ![Illustrator](https://img.shields.io/badge/-Illustrator-000?&logo=adobe-illustrator)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-000?&logo=adobe-photoshop) -->

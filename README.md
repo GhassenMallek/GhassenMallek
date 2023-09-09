@@ -4,20 +4,15 @@
 ## About me
 
 💡  I like to explore new technologies and develop software solutions and quick hacks.
-🎓  I'm an IT engineer 👨‍💻
-⚙️  I started as a Desktop Developer using java 🌱  Now, I'm on track for learning Artificial Intelligence, Reinforcement Learning, Mobile Development, Software developement.
-😍  In my free time, I pursue Video Editing and learn new technologies Reading as hobbies/side hustles.
-📄 I'm open to any feedbacks, suggestions and offers💡  
-  <br><br>
+  <br>
+  
   <a href="https://mallekghassen.me" title="Show Repositories">![My website](https://img.shields.io/badge/website-FFFFFF?style=for-the-badge&logo=About.me&logoColor=black)
 </a>
 ## &nbsp;Technologies I use
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/GhassenMallek/Insight/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/GhassenMallek/Article-management-full-stack-spring-boot)
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://github.com/GhassenMallek/RentCars)
@@ -28,14 +23,10 @@
 <br>
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/GhassenMallek/ShowApp-backend)
 [![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](https://github.com/GhassenMallek/ShowApp-backend)
-![NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/GhassenMallek/Insight/)
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/GhassenMallek/Article-management-full-stack-spring-boot)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/GhassenMallek/RentCars)
 ![SQL](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 <!-- ### &nbsp;Softwares
 ![Illustrator](https://img.shields.io/badge/-Illustrator-000?&logo=adobe-illustrator)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-000?&logo=adobe-photoshop) -->
